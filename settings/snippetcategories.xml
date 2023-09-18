@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories>
+  <category name="default">
+    <snippet>../contents/assets/snippets/Road_safety_.hts</snippet>
+    <snippet>../contents/new_rule.htm</snippet>
+    <snippet>../contents/new_topic.htm</snippet>
+    <snippet>../contents/assets/layouts/Tp1.htt</snippet>
+    <snippet>../contents/TP.htm</snippet>
+    <snippet>../contents/assets/layouts/Tp2.htt</snippet>
+  </category>
+</categories>

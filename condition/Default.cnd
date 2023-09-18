@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop att="Audience" val="French" backcolor="transparent" color="#FF00FF"></prop>
+  <prop att="Audience" val="IND" backcolor="transparent" color="#000080"></prop>
+  <prop att="Audience" val="RUSS" backcolor="transparent" color="#FF0000"></prop>
+  <prop att="Audience" val="Spainsh" backcolor="transparent" color="#008000"></prop>
+  <prop att="Platform" val="Online" backcolor="#00ff00"></prop>
+  <prop att="Platform" val="Print" backcolor="#ff0000"></prop>
+</val>

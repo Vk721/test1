@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?>    <expr>    <group flag="Include" op="AND"><tag name="Audience" value="RUSS" flag="Include" op="AND"></tag><tag name="Audience" value="IND" flag="Exclude" op="AND"></tag><tag name="Audience" value="French" flag="Exclude" op="AND"></tag><tag name="Audience" value="Spainsh" flag="Exclude" op="AND"></tag></group>    </expr>
